@@ -1,1 +1,2 @@
 these are the changes in branch1
+these are the changes in branch1 which will be pushed in branch2 when u r in branch1
