@@ -1,2 +1,5 @@
 these are the changes in branch2
+these are changes1 in masterthese are the changes in branch2
 these are changes in master
+changes for second commit in master
+in master for third commit
