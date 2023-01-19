@@ -1,2 +1,2 @@
 these are the changes in branch2
-these are changes1 in master
+these are changes in master
